@@ -1,0 +1,3 @@
+Tensorflow (https://pypi.org/project/tensorflow/)
+Scikit-learn (https://pypi.org/project/scikit-learn/)
+Yahoo Finance (https://pypi.org/project/yahoo-finance/)
